@@ -23,7 +23,7 @@ namespace chapter2._2_4
           {
             foreach (string name in names)
              {
-                Console.WriteLine();
+                Console.WriteLine(name);
              }
           }
     }
